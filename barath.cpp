@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 // from master branch
-// final (5 servo)
+// final (6 servo)
 int main()
 {
     int a;
